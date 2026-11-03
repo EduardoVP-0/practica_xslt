@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <producto id="PROD-01" destacado="si">
+        <nombre>Laptop Lenovo</nombre>
+        <categoria>Computadoras</categoria>
+        <precio moneda="MXN">20000</precio>
+        <stock>12</stock>
+        <descripcion>Intel Core i7, 16GB RAM, 512GB SSD. Ideal para desarrollo y trabajo pesado</descripcion>
+    </producto>
+    <producto id="PROD-02" destacado="no">
+        <nombre>Monitor Gamer"</nombre>
+        <categoria>Monitores</categoria>
+        <precio moneda="MXN">5000</precio>
+        <stock>8</stock>
+        <descripcion>Resolucion 2K QHD, 165Hz</descripcion>
+    </producto>
+    <producto id="PROD-03" destacado="si">
+        <nombre>Teclado Mecanico</nombre>
+        <categoria>Accesorios</categoria>
+        <precio moneda="MXN">2150</precio>
+        <stock>25</stock>
+        <descripcion>Teclado inalambrico compacto 75%, switches mecanicos</descripcion>
+    </producto>
+    <producto id="PROD-04" destacado="no">
+        <nombre>MacBook Air M2</nombre>
+        <categoria>Computadoras</categoria>
+        <precio moneda="MXN">22000</precio>
+        <stock>5</stock>
+        <descripcion>Chip M2 de Apple, 8GB memoria unificada, 256GB SSD, pantalla Liquid Retina</descripcion>
+    </producto>
+    <producto id="PROD-05" destacado="no">
+        <nombre>Mouse Ergonomico Logitech</nombre>
+        <categoria>Accesorios</categoria>
+        <precio moneda="MXN">1999</precio>
+        <stock>18</stock>
+        <descripcion>Sensor de 8000 DPI, clicks silenciosos, desplazamiento electromagnetico</descripcion>
+    </producto>
+    <producto id="PROD-06" destacado="si">
+        <nombre>Monitor Curvo Samsung</nombre>
+        <categoria>Monitores</categoria>
+        <precio moneda="MXN">11200</precio>
+        <stock>4</stock>
+        <descripcion>Ultra WQHD curvo 1000R</descripcion>
+    </producto>
+</tienda>
